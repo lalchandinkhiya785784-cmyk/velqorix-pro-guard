@@ -1,1 +1,1 @@
-# velqorix-pro-guard
+# velqorix-pro
